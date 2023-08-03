@@ -2,7 +2,7 @@
   "name": "pi_number",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://andresmacana.github.io/pi-number-Monte-Carlo-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

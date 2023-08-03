@@ -9,3 +9,7 @@ A circle with radius 1 is inside the square.
 
 Now the calculation of `pi` is as follows:
 `pi = (4 * inside_the_circle) / n`
+
+Try the link:
+
+https://andresmacana.github.io/pi-number-Monte-Carlo-react/
